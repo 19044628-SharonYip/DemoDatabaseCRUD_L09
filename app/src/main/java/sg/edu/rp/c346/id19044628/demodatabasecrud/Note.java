@@ -23,8 +23,7 @@ public class Note implements Serializable {
     }
 
     @Override
-    public String toString()
-    { return "ID:" + id + ", " + noteContent;  }
+    public String toString() { return "ID:" + id + ", " + noteContent;  }
 
 
 
